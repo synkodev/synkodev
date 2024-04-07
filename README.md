@@ -2,7 +2,7 @@
 <div>
   <h1>Weslley Alencar 🏳️‍🌈🎮</h1>
   <a href="https://www.linkedin.com/in/walencar/" target="_blank"><img align="right" alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"></a>
-  <h4>Software Enginner 🧑‍💻| Teacher Assistant @ Le Wagon 👨‍🏫</h4>
+  <h4>Software Engineer 🧑‍💻| Teacher Assistant @ Le Wagon 👨‍🏫</h4>
 </div>
 <hr>
 <h2>About me 📰</h2>
@@ -34,7 +34,7 @@ class Profile {
 }
 
 const skillsArray = ['JavaScript', 'Ruby on Rails', 'Git', 'React.js', 'PostgreSQL', 'Microsoft SQL Server'];
-const synkoDev = new Profile('Weslley Alencar', 'Software Enginner', skillsArray);
+const synkoDev = new Profile('Weslley Alencar', 'Software Engineer', skillsArray);
 synkoDev.greetVisitors();
 ```
 
