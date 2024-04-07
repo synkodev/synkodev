@@ -1,4 +1,7 @@
-### Hi👋 Welcome to my GitHub page!
+<div align="center">
+  <h1>Weslley Alencar</h1>
+  <h4>Full Stack-Developer | Teacher Assistant @ Le Wagon</h4>
+</div>
 
 <!--
 **synkodev/synkodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
