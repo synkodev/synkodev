@@ -1,4 +1,4 @@
-<img align="left" src="software-development-icon.png" width="200px" height="200px">
+<img align="left" src="software-development-icon.png" width="180px" height="180px">
 <p align="right">
   <a href="https://www.linkedin.com/in/walencar/" target="_blank"><img alt="Static Badge" src="https://github.com/synkodev/synkodev/assets/69865585/4679c433-5c8c-44c0-9916-5a5aefe813e1" width="32px" height="32px"></a>
 </p>
