@@ -1,7 +1,8 @@
 <img align="left" src="software-development-icon.png" width="128px" height="128px">
 <div>
   <h1>Weslley Alencar</h1>
-  <h4>Full Stack-Developer | Teacher Assistant @ Le Wagon</h4>
+  <a href="https://www.linkedin.com/in/walencar/" target="_blank"><img align="right" alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"></a>
+  <h4>Software Enginner | Teacher Assistant @ Le Wagon</h4>
 </div>
 <hr>
 <h2>About me</h2>
