@@ -1,7 +1,9 @@
-<img align="left" src="software-development-icon.png" width="128px" height="128px">
+<img align="left" src="software-development-icon.png" width="200px" height="200px">
+<p align="right">
+  <a href="https://www.linkedin.com/in/walencar/" target="_blank"><img alt="Static Badge" src="https://github.com/synkodev/synkodev/assets/69865585/4679c433-5c8c-44c0-9916-5a5aefe813e1" width="32px" height="32px"></a>
+</p>
 <div>
   <h1>Weslley Alencar 🏳️‍🌈🎮</h1>
-  <a href="https://www.linkedin.com/in/walencar/" target="_blank"><img align="right" alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"></a>
   <h4>Software Engineer 🧑‍💻| Teacher Assistant @ Le Wagon 👨‍🏫</h4>
 </div>
 <hr>
