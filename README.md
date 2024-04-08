@@ -6,6 +6,8 @@
   <h1>Weslley Alencar 🏳️‍🌈🎮</h1>
   <h4>Software Engineer 🧑‍💻| Teacher Assistant @ Le Wagon 👨‍🏫</h4>
 </div>
+
+
 <hr>
 <h2>About me 📰</h2>
 
